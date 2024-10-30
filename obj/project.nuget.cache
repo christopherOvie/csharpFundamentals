@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "clh6DrfZjL2RpXu7ETtHQtEA5Y7dSwy6BAd1yw+ACpqObBZOwSV829o9RDgOswsfBpiAdnu8e0mWsLyG9+x48w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\odibo ovie\\source\\repository\\chriiskingbasic\\CSharpFundamentals\\CSharpFundamentals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\odibo ovie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\odibo ovie\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512",
+    "C:\\Users\\odibo ovie\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\odibo ovie\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\odibo ovie\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
